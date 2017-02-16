@@ -14,7 +14,7 @@ def arduino():
     temp_1= open('arquivo.txt','w')			# Cria um aquivo.txt
 
     print"========================================================"
-    print"============ DIGITE 1 PARA TENSAO+======================"
+    print"============ DIGITE 1 PARA TENSAO ======================"
     print"============ DIGITE 2 PARA VALOR ======================="
     print"============ DIGITE 3  PARA BUGAR ======================"
     print"========================================================"
